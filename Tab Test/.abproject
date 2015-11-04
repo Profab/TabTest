@@ -1,0 +1,28 @@
+{
+  "ProjectName": "Tab Test",
+  "ProjectGuid": "90255a52-9c58-47e0-9c24-b60f323616c6",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TabTest",
+  "DisplayName": "Tab Test",
+  "Author": "",
+  "Description": "Tab Test",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "1.4.3",
+  "Framework": "NativeScript"
+}
